@@ -50,7 +50,7 @@ I focus on building scalable and efficient backend systems while exploring innov
 ---
 ## 🎵 Hobbies & Interests
 - **Music**: Rap, Chill music
-- **Sports**: Football (Soccer)
+- **Sports**: Football
   - Fan of **Cristiano Ronaldo (CR7)**  
   - Supporter of **Manchester United**  
 - **Other Interests**: Exploring new technologies and watching football highlights.
