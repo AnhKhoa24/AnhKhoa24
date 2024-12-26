@@ -48,6 +48,13 @@ I focus on building scalable and efficient backend systems while exploring innov
    - **Tech Stack**: Python, Vector Databases, AI models.
 
 ---
+## 🎵 Hobbies & Interests
+- **Music**: Rap, Chill music
+- **Sports**: Football (Soccer)
+  - Fan of **Cristiano Ronaldo (CR7)**  
+  - Supporter of **Manchester United**  
+- **Other Interests**: Exploring new technologies and watching football highlights.
+
 
 ## 📫 Contact Me
 - **Email**: [anhkhoa.24052003@gmail.com](mailto:anhkhoa.24052003@gmail.com)
