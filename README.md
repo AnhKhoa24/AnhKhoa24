@@ -51,7 +51,7 @@ I focus on building scalable and efficient backend systems while exploring innov
 
 ## 📫 Contact Me
 - **Email**: [anhkhoa.24052003@gmail.com](mailto:anhkhoa.24052003@gmail.com)
-- **GitHub**: [YourGitHubUsername](https://github.com/YourGitHubUsername) *(Replace with your GitHub profile link)*
+
 
 ---
 
