@@ -1,41 +1,59 @@
-
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi, I'm Huỳnh Anh Khoa!
 
 ## 🚀 About Me
-I am a **Fullstack Developer** with expertise in **Front-End** (React, Angular, TailwindCSS) and **Back-End** (Node.js, C#).  
-I love creating scalable web applications, experimenting with AI-powered tools, and building chatbots using **LLM and RAG**.
+I'm a **3rd-year Information Technology student** specializing in **Backend Development** with a growing interest in AI and Machine Learning.  
+I focus on building scalable and efficient backend systems while exploring innovative solutions through AI technologies.
 
-- 🌱 Currently learning: Advanced AI integration with **LangChain** and **vector databases**.
-- 🎯 Goal: To create innovative solutions that bridge business and technology.
-- 💡 Fun fact: I enjoy automating workflows with **n8n** and exploring pet product trends.
+- 🎓 **Date of Birth**: 24/05/2003  
+- 🌱 Currently diving deep into **backend architectures** and **AI-powered systems**.  
+- 💡 Fun fact: I enjoy solving complex backend challenges and optimizing workflows with modern tools.  
+
+---
+
+## 🏆 Achievements
+- Received **4 academic scholarships** at my university for excellent academic performance and dedication to the field of technology.
 
 ---
 
 ## 🛠 Skills
-- **Languages**: Python, JavaScript, C#
-- **Front-End**: HTML, CSS, TailwindCSS, React, Angular
-- **Back-End**: Node.js, .NET (C#)
-- **Others**: LangChain, AI/ML, RAG, n8n, Maker-PDF
+### **Backend Development**
+- **Frameworks**: .NET Core API, MVC
+- **Databases**: SQL Server, PostgreSQL, MongoDB
+- **Caching**: Redis
+- **Patterns & Principles**: SOLID, CQRS
+
+### **Frontend Development**
+- **Technologies**: HTML, CSS, Bootstrap, TailwindCSS, JavaScript, jQuery, ReactJS (basic)
+
+### **AI & Machine Learning**
+- Trained classification models
+- Built **RAG (Retrieval-Augmented Generation)** systems
+
+### **Development Tools**
+- GitHub, Docker, RabbitMQ, Realtime Pusher
 
 ---
 
-## 🏆 Featured Projects
+## 📂 Featured Projects
+### 1. **E-commerce API with CQRS**
+   - **Description**: Designed and implemented a backend API for an e-commerce platform using the CQRS pattern and Redis caching.
+   - **Tech Stack**: .NET Core, PostgreSQL, Docker.
 
-### 1. [Chatbot for Government Websites](https://github.com/yourusername/chatbot-project)
-   - **Description**: Built an advanced chatbot to serve FAQs and information retrieval for government portals in Vietnam.
-   - **Tech Stack**: Python, LangChain, Maker-PDF, vector database.
+### 2. **Realtime Chat System**
+   - **Description**: Developed a real-time chat application with Pusher and RabbitMQ for message queuing.
+   - **Tech Stack**: .NET Core, Redis, SQL Server.
 
-### 2. [Retail E-commerce for Cat Furniture](https://github.com/yourusername/ecommerce-project)
-   - **Description**: Developed a multi-language e-commerce platform for selling cat furniture, optimized for SEO and user experience.
-   - **Tech Stack**: React, Node.js, TailwindCSS.
+### 3. **AI-Powered Document Retrieval**
+   - **Description**: Built an RAG-based system for efficient document retrieval and processing.
+   - **Tech Stack**: Python, Vector Databases, AI models.
 
 ---
 
 ## 📫 Contact Me
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [anhkhoa.24052003@gmail.com](mailto:anhkhoa.24052003@gmail.com)
+- **GitHub**: [YourGitHubUsername](https://github.com/YourGitHubUsername) *(Replace with your GitHub profile link)*
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue)
+
