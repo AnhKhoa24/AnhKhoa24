@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Huỳnh Anh Khoa!
+# 👋 Hi everyone, I'm Huỳnh Anh Khoa!
 
 ## 🚀 About Me
 I'm a **3rd-year Information Technology student** specializing in **Backend Development** with a growing interest in AI and Machine Learning.  
