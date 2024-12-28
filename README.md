@@ -54,15 +54,17 @@ I focus on building scalable and efficient backend systems while exploring innov
   - Fan of **Cristiano Ronaldo (CR7)**  
   - Supporter of **Manchester United**  
 - **Other Interests**: Exploring new technologies and watching football highlights.
-- **Other Interests**
-Tên tôi là Anh Khoa, mộng lớn vươn trời xa,
-Tuổi 21, nhiệt huyết, không ngại va.
-Dreams so big, yeah, they shine like the stars,
-Hustle every day, I’mma break these bars.
-Young and bold, yeah, the world’s in my hand,
-Making moves, chasing dreams, got a master plan.
-No regrets, only lessons when we fall,
-Living life to the fullest, yeah, I want it all.
+
+### 🎤 Personal Rap
+> Tên tôi là Anh Khoa, mộng lớn vươn trời xa,  
+> Tuổi 21, nhiệt huyết, không ngại va.  
+> Dreams so big, yeah, they shine like the stars,  
+> Hustle every day, I’mma break these bars.  
+> Young and bold, yeah, the world’s in my hand,  
+> Making moves, chasing dreams, got a master plan.  
+> No regrets, only lessons when we fall,  
+> Living life to the fullest, yeah, I want it all.
+
 
 
 ## 📫 Contact Me
