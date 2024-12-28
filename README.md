@@ -56,7 +56,7 @@ I focus on building scalable and efficient backend systems while exploring innov
 - **Other Interests**: Exploring new technologies and watching football highlights.
 
 ### 🎤 Personal Rap
-> Tên tôi là Anh Khoa, mộng lớn vươn trời xa,  
+> Anh Khoa giấc mơ lớn, khao khát phương trời xa,  
 > Tuổi 21, nhiệt huyết, không ngại va.  
 > Dreams so big, yeah, they shine like the stars,  
 > Hustle every day, I’mma break these bars.  
