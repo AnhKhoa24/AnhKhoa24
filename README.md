@@ -30,7 +30,7 @@ I focus on building scalable and efficient backend systems while exploring innov
 - Built **RAG (Retrieval-Augmented Generation)** systems
 
 ### **Development Tools**
-- GitHub, Docker, RabbitMQ, Realtime Pusher
+- GitHub, Docker, RabbitMQ, Kafka, Realtime Pusher
 
 ---
 
